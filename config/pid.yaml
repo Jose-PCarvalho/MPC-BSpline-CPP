@@ -1,0 +1,25 @@
+k_speed: 0.35
+k_correction: 4.0
+k_w: 5
+dist_tresh: 0.04
+box_dist: 0.05
+rotate_dist: 0.20
+kd_v: 0.4
+kd_w: 0 #0.202347
+speed_divisor: 2.512
+slow_zone: 0.2
+mach_b: true
+# box_order: "BGGR"
+
+#k_speed: 0.20
+#k_correction: 4
+#k_w: 4
+#dist_tresh: 0.04
+#box_dist: 0.05
+#rotate_dist: 0.1
+#kd_v: 0.4
+#kd_w: 0.202347
+#speed_divisor: 2.512
+#slow_zone: 0.2
+#mach_b: true
+# box_order: "BGGR"
