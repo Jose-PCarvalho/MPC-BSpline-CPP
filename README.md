@@ -1,6 +1,5 @@
 # 5dpo_ratf_ros_path_lanning
 
-# ROS Node for Overall Architecture
 
 This repository provides a ROS node designed to integrate into the 5dpo Robot at Factory 4.0 Software Stack. It implements a Model Predictive Control scheme for the Motion Planning of the Omnidirectional Robot.
 
