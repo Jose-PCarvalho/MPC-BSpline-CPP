@@ -30,6 +30,5 @@ The 5dpo Robot@Factory 4.0 Software Stack:
   volume={},
   number={},
   pages={66-73},
-  keywords={Technological innovation;Education;Propulsion;Production facilities;Software;Hardware;Autonomous robots;autonomous mobile robots;robot competitions;robot at factory 4.0},
   doi={10.1109/ICARSC61747.2024.10535935}}
 ```
